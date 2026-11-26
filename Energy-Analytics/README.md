@@ -1,8 +1,8 @@
 # Energy Analytics
 
-Data science and analytical projects focused on energy systems, renewable energy resources, energy markets, and sustainable development.
+Projects examining renewable-energy data, solar radiation, and energy markets.
 
 ## Projects
 
-- Solar Radiation Measurement and Analysis
-- Brent Crude Oil Price Impact Analysis
+- [Solar Radiation Measurement and Data Analysis](https://github.com/Ethel-Star/Solar-Radiation-Measurement-and-Data-Analysis)
+- [Brent Crude Oil Price Analysis and Impact Assessment](https://github.com/Ethel-Star/Brent-Crude-Oil-Price-Analysis-and-Impact-Assessment)
