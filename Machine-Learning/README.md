@@ -1,12 +1,11 @@
 # Machine Learning
 
-Projects applying machine learning, statistical modeling, feature engineering, and predictive analytics to real-world problems.
+Projects applying machine learning, feature engineering, prediction, and forecasting to practical problems.
 
 ## Projects
 
-- Advanced Fraud Detection for E-Commerce and Banking
-- Enhanced Fraud Detection for Banking Transactions
-- Credit Risk Assessment and BNPL Scoring
-- Rossmann Store Sales Prediction
-- Time Series Forecasting for Portfolio Optimization
-
+- [Advanced Machine Learning-Based Fraud Detection for E-Commerce and Banking](https://github.com/Ethel-Star/Advanced-Machine-Learning-Based-Fraud-Detection-for-E-Commerce-and-Banking)
+- [Enhanced Fraud Detection for E-Commerce and Banking Transactions](https://github.com/Ethel-Star/Enhanced-Fraud-Detection-for-E-Commerce-and-Banking-Transactions)
+- [Credit Risk Assessment and Scoring for BNPL Services](https://github.com/Ethel-Star/Credit-Risk-Assessment-and-Scoring-for-Buy-Now-Pay-Later-BNPL-Services)
+- [Rossmann Store Sales Analysis and Predictive Modeling](https://github.com/Ethel-Star/Rossmann-Store-Sales-Analysis-and-Predictive-Modeling)
+- [Time Series Forecasting for Financial Portfolio Management](https://github.com/Ethel-Star/Time-Series-Forecasting-for-Optimized-Financial-Portfolio-Management)
